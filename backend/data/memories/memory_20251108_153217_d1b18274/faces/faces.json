@@ -1,0 +1,17 @@
+{
+  "memory_id": "memory_20251108_153217_d1b18274",
+  "faces": [
+    {
+      "image": "f1.png",
+      "crop_file": "f1_face_01.jpg",
+      "box": {
+        "x": 325,
+        "y": 128,
+        "w": 50,
+        "h": 50
+      },
+      "score": 0.773,
+      "label": null
+    }
+  ]
+}

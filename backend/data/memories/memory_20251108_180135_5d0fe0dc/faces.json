@@ -1,0 +1,14 @@
+[
+  {
+    "source_image": "f1.png",
+    "crop_file": "face_f1_01.jpg",
+    "bbox": {
+      "x": 321,
+      "y": 124,
+      "w": 58,
+      "h": 58
+    },
+    "score": 0.7731362581253052,
+    "label": "Manjo"
+  }
+]

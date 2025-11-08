@@ -1,0 +1,16 @@
+{
+  "memory_id": "memory_20251108_192501_8c3a68eb",
+  "created_at": "2025-11-08T19:25:01.245524",
+  "files": [
+    "download.jpg"
+  ],
+  "has_video": false,
+  "has_audio": false,
+  "has_photos": true,
+  "llm_provider": "gemini",
+  "ollama_base_url": "http://127.0.0.1:11434",
+  "gemini_key_present": true,
+  "status": "processed",
+  "captions_count": 1,
+  "has_transcript": false
+}

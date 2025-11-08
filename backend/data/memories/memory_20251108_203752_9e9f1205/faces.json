@@ -1,0 +1,50 @@
+[
+  {
+    "source_image": "download.jpg",
+    "crop_file": "face_download_01.jpg",
+    "bbox": {
+      "x": 149,
+      "y": 55,
+      "w": 26,
+      "h": 26
+    },
+    "score": 0.9563681483268738,
+    "label": null
+  },
+  {
+    "source_image": "download.jpg",
+    "crop_file": "face_download_02.jpg",
+    "bbox": {
+      "x": 92,
+      "y": 54,
+      "w": 30,
+      "h": 30
+    },
+    "score": 0.9460105895996094,
+    "label": null
+  },
+  {
+    "source_image": "download.jpg",
+    "crop_file": "face_download_03.jpg",
+    "bbox": {
+      "x": 126,
+      "y": 29,
+      "w": 26,
+      "h": 26
+    },
+    "score": 0.9214367270469666,
+    "label": null
+  },
+  {
+    "source_image": "download.jpg",
+    "crop_file": "face_download_04.jpg",
+    "bbox": {
+      "x": 118,
+      "y": 86,
+      "w": 21,
+      "h": 21
+    },
+    "score": 0.8065282106399536,
+    "label": null
+  }
+]
